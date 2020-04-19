@@ -1,6 +1,6 @@
     let array= []
-    function divisibilitycheck(_arr) {
-
+    function wholenumber(data)= 
+     {
         for (let i=1; i<=data; i++) {
             // number is divisble by both 2&3&5
         if (i%2==0 && i%3==0 && i%5==0) {
